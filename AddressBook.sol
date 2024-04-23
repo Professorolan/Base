@@ -70,3 +70,4 @@ contract AddressBook is Ownable(msg.sender) {
         return contacts;
     }
 }
+
